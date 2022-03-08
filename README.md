@@ -1,3 +1,3 @@
 # slstatus
 
-fork of slstatus
+status bar for dwm
